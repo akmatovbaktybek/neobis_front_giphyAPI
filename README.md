@@ -2,7 +2,7 @@
 ---
 ### Ссылка: [клик](https://akmatovbaktybek.github.io/neobis_front_giphyAPI/)
 ---
-![](img/prew.jpg)
+![](images/prew.jpg)
 ---
 ### Сборка репозитория и локальный запуск:
 ---
